@@ -64,7 +64,7 @@ int spellWordGenerator(vector <string> wordsUsage, vector <string> wordSearch, i
     }
     if (elapsedTime > maxTime) {
         int timeAfter = (elapsedTime - maxTime); //calculates the time after clock
-        int pointReduction = -1 * (timeAfter) * 3; //calls for point reduction
+        int pointReduction = -1 * (timeAfter) * 3; 
         cout << pointReduction << " points for finishing " << timeAfter << " seconds late.";
     }
     cout << endl;
