@@ -1,4 +1,4 @@
-# Typing-Game
+# Typing-Words
 
 This was another school program that I made. Very fun to play. 
 
